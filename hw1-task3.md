@@ -18,7 +18,7 @@ Explain whether each scenario is a **classification or regression** problem, and
 
 This is a regression problem and we are interested in inference. 
 n = 200
-p = 5 
+p = 4 
 
 ---
 
@@ -28,7 +28,7 @@ p = 5
 
 This is a classification problem and we are interested in prediction. 
 n = 30
-p = 12
+p = 11
 ---
 
 **(c)** We are interested in predicting weekly average ground-level ozone concentration in a coastal city. We collect weekly data for all of 2019. For each week we record average ozone concentration, sea surface temperature, wind speed, solar radiation, and atmospheric
@@ -37,7 +37,7 @@ p = 12
 
 This is a regression problem and we are interested in prediction. 
 n = 52
-p = 5
+p = 4
 
 ---
 
