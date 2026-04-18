@@ -29,6 +29,7 @@ p = 4
 This is a classification problem and we are interested in prediction. 
 n = 30
 p = 11
+
 ---
 
 **(c)** We are interested in predicting weekly average ground-level ozone concentration in a coastal city. We collect weekly data for all of 2019. For each week we record average ozone concentration, sea surface temperature, wind speed, solar radiation, and atmospheric
